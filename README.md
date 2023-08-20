@@ -39,10 +39,10 @@ Please refer to PointNeXt to install other required packages and download datase
 run ./pre_supervised/pre_supervised.py
 ````
 
-2. Training all data based on pre_supervised model, and set the model folder path in cfg_s3dis.yaml file.
+<!--2. Training all data based on pre_supervised model, and set the model folder path in cfg_s3dis.yaml file.
 ````
 run ./DCL/main.py
-````
+````-->
 
 ## Citation
 ````
